@@ -13,6 +13,7 @@
 3. Menu **Browse Post**
     - Meembuat post(Artikel)
     - Upload thumbnail untuk Artikel
+    - Fitur search post(Artikel)
 4. Fitur Komentar
     - Membuat komentar ke post(artikel) user
 5. Fitur Realtime
@@ -36,7 +37,7 @@
 7. Setting database ada file `.env`
 8. `php artisan migrate`
 9. (optional) Buat beberapa akun dengan tinker dan factory
-10. `php artisan serve`
+10. Jalankan server `php -S localhost:8000 -t public`
 11. Selesai, silakan registrasi dan coba aplikasinya
 
 ## License

@@ -1,0 +1,56 @@
+.userprofile {
+    width: 100%;
+	float: left;
+	clear: both;
+	margin: 40px auto
+}
+.userprofile .userpic {
+	height: 100px;
+	width: 100px;
+	clear: both;
+	margin: 0 auto;
+	display: block;
+	border-radius: 100%;
+	position: relative; 
+    background: #fff;
+}
+.userprofile .userpic .userpicimg {
+	height: auto;
+	width: 100%;
+	border-radius: 100%;
+}
+.userpic:hover{
+    background: rgba(0, 0, 0, 0.3);
+}
+.username {
+    font-family: raleway;
+	font-size: 20px;
+	line-height: 20px;
+	color: #000000;
+	margin-top: 20px;
+	overflow: hidden;
+}
+.username+p {
+    font-family: raleway;
+	color: #fff;
+	font-size: 14px;
+}
+/*==============================*/
+/*====== Social Profile css =====*/
+/*==============================*/
+.userprofile.social {
+	background:#fff;
+	background-size: 100%;
+	padding: 50px 0;
+	margin: 0;
+}
+.userprofile.social .username {
+	color: #ffffff
+}
+.userprofile.social .username+p {
+	color: #ffffff;
+	opacity: 0.8
+}
+.clearfix{
+    background: #fff;
+}

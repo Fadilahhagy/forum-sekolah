@@ -11,7 +11,7 @@
     - Melihat daftar User yang terdaftar
     - Klik **View Profile**
 3. Menu **Browse Post**
-    - Meembuat post(Artikel)
+    - Membuat post(Artikel)
     - Upload thumbnail untuk Artikel
     - Fitur search post(Artikel)
 4. Fitur Komentar

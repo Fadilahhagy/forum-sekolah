@@ -28,7 +28,7 @@
 - SQlite (untuk `automated testing`).
 
 ### Install Aplikasi
-1. Pada terminal, clone repo dengan git `git clone https://github.com/nafiesl/mini-socmed.git`
+1. Pada terminal, clone repo dengan git `git clone https://github.com/Fadilahhagy/forum-sekolah.git`
 2. `cd forum-sekolah`
 3. `cp .env.example .env`
 4. `composer install`
